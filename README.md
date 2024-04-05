@@ -4,11 +4,13 @@
 
 We use a unique module to get inside of the package shape
 
+```
 5_A/
 ├── Paquete/
 │   ├── __init__.py
 │   └── Shape.py
 └── punto_5_a.py
+```
 
 ### Normal code without __name__ and "__main__"
 
@@ -373,6 +375,7 @@ if you want to see all or prove it open the carpet 5, and open 5_A
 
 We use a multiple module to get inside of the package shape
 
+```
 Reto_5b/
 ├── paquete_5b/
 │   ├── __init__.py
@@ -385,6 +388,7 @@ Reto_5b/
 │   ├── Scalene.py
 │   └── Trirectangle.py
 └── punto_5_b.py
+```
 
 ### Shape
 
